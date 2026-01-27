@@ -1,0 +1,32 @@
+# Core ML stack
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+numpy==2.2.5
+scipy==1.15.2
+
+# Diffusion + HF ecosystem
+diffusers==0.32.2
+transformers==4.56.0.dev0
+accelerate==1.6.0
+huggingface-hub==0.34.4
+safetensors==0.5.3
+
+# VQA / Qwen-VL utils
+qwen-vl-utils==0.0.8
+
+# Vision & plotting
+pillow==10.2.0
+matplotlib==3.10.1
+opencv-python==4.11.0.86
+lpips==0.1.4
+
+# Datasets / utilities
+datasets==3.5.0
+tqdm==4.67.1
+einops==0.8.1
+
+# Notebook support (for run_pci.ipynb)
+ipykernel==6.29.5
+jupyterlab
+ipywidgets==8.1.7
