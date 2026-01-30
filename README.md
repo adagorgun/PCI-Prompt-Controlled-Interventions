@@ -3,7 +3,7 @@
   <p align="center">
     <a href="https://adagorgun.github.io/"><strong>Ada Görgün*</strong></a>
     ·
-    <a href="https://github.com/fawazsammani"><strong>Fawaz Sammani*</strong></a>
+    <a href="https://fawazsammani.github.io/fsammani.github.io/"><strong>Fawaz Sammani*</strong></a>
     ·
     <a href="https://www.etrovub.be/people/member/about-bio/ndeligia/"><strong>Nikos Deligiannis</strong></a>
     ·
